@@ -106,7 +106,7 @@ Implementation:
 
 ## Tools and Technologies
 
-- **Microcontroller:** STM32F401 "Black Pill" board. In my experience it has been far more stable than the F103 "Blue Pill" for only about 20k VND (~$1) more.
+- **Microcontroller:** The first 3 assignment was done on the F103 bluepill, but later I changed to STM32F401 "Black Pill" board. In my experience it has been far more stable than the F103 "Blue Pill" for only about 20k VND (~$1) more.
 - **IDE / configuration:** STM32CubeIDE and STM32CubeMX
 - **Library:** STM32 standard HAL
 - **Display driver:** [stm32-ssd1306](https://github.com/afiskon/stm32-ssd1306) by afiskon, which saved me a lot of time. Thanks!

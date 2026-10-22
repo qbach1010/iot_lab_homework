@@ -1,6 +1,6 @@
 # IoT Lab Homework
 
-A collection of STM32-based IoT lab exercises for learning embedded programming. Each lab was developed with **STM32CubeIDE / STM32CubeMX**, **C**, the **STM32 HAL library**, and a few open-source libraries found on GitHub.
+A collection of STM32-based IoT lab exercises from [Valvano](https://users.ece.utexas.edu/~valvano/Volume1/labs.html) for learning embedded programming. Each lab was developed with **STM32CubeIDE / STM32CubeMX**, **C**, the **STM32 HAL library**, and a few open-source libraries found on GitHub.
 
 > This README is only a short summary. For more detailed explanations and the reasoning behind my design choices, see my weekly progress report slides (Vietnamese):
 > [Google Slides](https://docs.google.com/presentation/d/1YPuxtM02O0CWDc4GCb5DM86VsOLfvX1zrCVpzRzVggM/edit?usp=sharing)

@@ -116,4 +116,4 @@ Implementation:
 
 ## Summary
 
-These labs build a strong foundation in embedded systems, covering everything from basic digital I/O to timers, state machines, and display-driven user interfaces. Together they serve as a practical introduction to firmware development on the STM32 ecosystem.
+These labs project help me ease in getting started in stm32 development, and I want to do it all as soon as possible to starting to do my own project.

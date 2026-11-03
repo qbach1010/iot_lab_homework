@@ -13,7 +13,7 @@ A collection of STM32-based IoT lab exercises from [Valvano](https://users.ece.u
 - [Lab 5: Traffic Light Controller with OLED UI](#lab-5-traffic-light-controller-with-oled-ui)
 - [Tools and Technologies](#tools-and-technologies)
 - [Summary](#summary)
-
+- //NOTE: LAB 4 DO NOT EXIST, IDK THE REASON BUT I CAN"T FIND IT
 ---
 
 ## Lab 1: Parity Checker
